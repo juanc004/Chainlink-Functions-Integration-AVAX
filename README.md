@@ -99,7 +99,7 @@ Enhance your project with additional support:
 - [Experimenting in Chainlink Functions Playground](https://functions.chain.link/playground)
 - [Understanding Chainlink Functions](https://blog.chain.link/ways-to-use-chainlink-functions/)
 
-## Troubleshooting Common Issues with Chainlink Functions
+## Troubleshooting Common Issues
 
 While integrating Chainlink Functions, you might encounter several errors. Below, we dive into why these issues occur and how to effectively address them:
 
